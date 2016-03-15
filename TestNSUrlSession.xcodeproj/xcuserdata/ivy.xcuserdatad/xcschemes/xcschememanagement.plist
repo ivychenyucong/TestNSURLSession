@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>TestNSUrlSession.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CAB2E86C1C98043300AE64C8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CAB2E8851C98043300AE64C8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CAB2E8901C98043300AE64C8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
